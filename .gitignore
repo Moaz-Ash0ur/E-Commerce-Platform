@@ -2,3 +2,9 @@
 .vs/
 bin/
 obj/
+# Ignore user-specific and build output
+*.csproj.user
+*.suo
+*.user
+bin/
+obj/

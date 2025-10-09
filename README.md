@@ -14,7 +14,7 @@ The backend follows a **3-Tier Architecture**:
 - **Business Layer (BLL)** – Implements business rules and validation  
 - **Data Access Layer (DAL)** – Communicates with the database using EF Core  
 
-This architecture ensures a clean separation of concerns and makes the project easy to maintain and extend.
+This architecture ensures a clean separation of concerns and makes the project easy to maintain and extend
 
 ---
 
